@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Create Horsemann"
+	{
+		"#format"	"{1:t}"
+		"en"		"Set {1} as the Horseless Headless Horsemann."
+	}
+	
+	"Scare"
+	{
+		"en"	"Scare"
+	}
+	
+	"Ready!"
+	{
+		"en"	"Ready!"
+	}
+}
